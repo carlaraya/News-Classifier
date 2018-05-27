@@ -218,9 +218,11 @@ adapters
 adapting
 add
 added
+addict
 addicted
 addiction
 addictive
+addictiveness
 addicts
 adding
 addition
@@ -282,6 +284,7 @@ adoptive
 adore
 adored
 adornments
+adrenaline
 adrift
 adroit
 ads
@@ -1008,6 +1011,7 @@ attends
 attention
 attentions
 attentive
+attest
 attitude
 attitudes
 attorney
@@ -1552,6 +1556,7 @@ biopic
 bipedal
 birch
 bird
+birds
 birth
 birthday
 birthdays
@@ -1582,6 +1587,7 @@ blacklists
 blackmail
 blackmailed
 blacks
+bladder
 blade
 blades
 blame
@@ -1795,6 +1801,7 @@ botched
 both
 bother
 bothered
+bothers
 bots
 bottle
 bottled
@@ -3371,6 +3378,7 @@ consulted
 consulting
 consults
 consume
+consumed
 consumer
 consumerism
 consumers
@@ -3590,6 +3598,7 @@ corrupted
 corrupting
 corruption
 cortisone
+cos
 cosiness
 cosmetic
 cosmetics
@@ -5627,6 +5636,7 @@ escape
 escaped
 escapes
 escaping
+escapism
 eschewed
 escort
 escorted
@@ -5699,6 +5709,7 @@ eventually
 ever
 everest
 evergreen
+evermore
 every
 everybody
 everyday
@@ -6820,6 +6831,7 @@ gaining
 gains
 gait
 gala
+galaxies
 galaxy
 gale
 galleries
@@ -7683,6 +7695,7 @@ hoax
 hoaxes
 hobbies
 hobbit
+hobble
 hobby
 hoc
 hockey
@@ -7823,6 +7836,7 @@ howitzer
 howl
 howlers
 hp
+hrs
 hub
 hubs
 hues
@@ -8010,6 +8024,7 @@ immunity
 imp
 impact
 impacted
+impair
 impaired
 impairment
 impairments
@@ -8288,6 +8303,7 @@ infighting
 infiltrates
 infiltrating
 infiltration
+infinite
 infinity
 infirm
 infirmary
@@ -8695,6 +8711,7 @@ irresistibility
 irrespective
 irresponsibility
 irresponsible
+irretrievably
 irreversible
 irrigation
 irritable
@@ -9438,6 +9455,7 @@ longer
 longest
 longevity
 longhorn
+longing
 longtime
 look
 looked
@@ -10045,6 +10063,7 @@ minute
 minutes
 minx
 miracle
+mirage
 mired
 mirror
 mirrored
@@ -10171,6 +10190,7 @@ monetary
 money
 moneychangers
 monger
+mongering
 mongrel
 moniker
 monitor
@@ -10335,6 +10355,7 @@ muscling
 muse
 museum
 museums
+mushroom
 mushroomed
 mushy
 music
@@ -10708,7 +10729,9 @@ observing
 obsess
 obsessed
 obsession
+obsessive
 obsessively
+obsessives
 obstacle
 obstacles
 obstruct
@@ -10778,6 +10801,7 @@ offside
 offspring
 oft
 often
+ogres
 oh
 oil
 oiled
@@ -12565,6 +12589,7 @@ questioning
 questionnaire
 questionnaires
 questions
+quests
 queue
 queued
 queues
@@ -13240,6 +13265,7 @@ render
 rendered
 rendering
 rendezvous
+rending
 rendition
 renegade
 reneged
@@ -13442,6 +13468,7 @@ responsibly
 responsive
 rest
 restart
+restarted
 restate
 restated
 restatement
@@ -13453,6 +13480,7 @@ rested
 resting
 restitution
 restless
+restlessness
 restoration
 restore
 restored
@@ -13858,6 +13886,7 @@ sacrificed
 sacrifices
 sad
 saddened
+sadder
 sadistic
 sadly
 sadness
@@ -13927,6 +13956,7 @@ sandy
 sang
 sanguine
 sanitation
+sanity
 sank
 sans
 sap
@@ -15959,6 +15989,7 @@ swivel
 swollen
 swoop
 swoosh
+sword
 swords
 swore
 sworn
@@ -16443,6 +16474,7 @@ timothy
 tin
 tinker
 tinkered
+tinkerer
 tinkering
 tinkers
 tinny
@@ -16468,6 +16500,7 @@ titled
 titles
 tittle
 to
+toast
 tobacco
 today
 toe
@@ -16754,6 +16787,7 @@ trident
 tried
 trier
 tries
+trifling
 trigger
 triggered
 triggering
@@ -17128,6 +17162,7 @@ unguarded
 unguessable
 unhappiness
 unhappy
+unhealthily
 unhealthy
 unheard
 unhelpful
@@ -17215,6 +17250,7 @@ unprecedented
 unpredictability
 unpredictable
 unprintable
+unproductive
 unprofessional
 unprofitable
 unprotected
@@ -17404,6 +17440,7 @@ vaccine
 vaccines
 vacuity
 vacuous
+vacuum
 vagina
 vague
 vain
@@ -17681,6 +17718,7 @@ waits
 waive
 waiving
 wake
+waking
 wales
 walk
 walked
@@ -17935,6 +17973,7 @@ widespread
 widow
 widowed
 widower
+widows
 width
 wield
 wielded
@@ -17952,12 +17991,14 @@ will
 willing
 willingness
 willow
+willpower
 wills
 wilt
 wilting
 win
 winchester
 wind
+winded
 windfall
 winding
 window
